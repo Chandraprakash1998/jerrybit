@@ -208,7 +208,7 @@
             </div>
         </section>
         <!------footerClose------->
-        <script src="js/smooth-scroll.js"></script>
+        <script src="smooth-scroll.js"></script>
         <script>
 	var scroll = new SmoothScroll('a[href*="#"]');
 </script>
