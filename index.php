@@ -50,13 +50,13 @@
     <div class="carousel-item active">
       <img src="Retro9.jpg" class="d-block img-fluid">
         <div class="carousel-caption">
-            <h5> We help you build your own Website and Android Application</h5>
+            <h5>We help you build your own Web and Android App</h5>
         </div>
     </div>
     <div class="carousel-item">
       <img src="Retro4.jpg" class="d-block img-fluid">
         <div class="carousel-caption">
-            <h5> We help you build you your imagination through Arduino</h5>
+            <h5>We help you build your own imagination</h5>
         </div>
     </div>
     <div class="carousel-item">
